@@ -3,6 +3,8 @@
 ## Project Overview
 This project is a **Smart Home System** developed as our final project at the Information Technology Institute (ITI). The system leverages AVR microcontrollers to provide secure and efficient control over home appliances, including lights and fans. The system features both manual and automatic control options for enhanced user flexibility.Here is the project demo: <a href="https://drive.google.com/file/d/1EXYR_9_Q-QP6n7vKbQQkLmP2drwTZSpk/view?usp=drive_link">video link</a>
 
+![Screenshot 2024-09-21 153709](https://github.com/user-attachments/assets/df46738f-d4a5-4850-b5e1-83ccfd88286a)
+
 ## Features
 
 1. **Secure Access**:
